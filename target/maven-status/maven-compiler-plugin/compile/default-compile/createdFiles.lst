@@ -1,0 +1,5 @@
+com/example/techshop/DBConnection.class
+com/example/techshop/TechShopApplication.class
+com/example/techshop/Product.class
+com/example/techshop/resources/ProductResource.class
+com/example/techshop/ProductDAO.class
