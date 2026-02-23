@@ -1,0 +1,4 @@
+/root/java/lab5/src/main/java/com/example/tech_shop/TechShopApplication.java
+/root/java/lab5/src/main/java/com/example/tech_shop/controller/ProductController.java
+/root/java/lab5/src/main/java/com/example/tech_shop/model/Product.java
+/root/java/lab5/src/main/java/com/example/tech_shop/repository/ProductRepository.java
